@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mo El-Haj @drelhaj
-- 👨🏽‍🏫 NLP Lecturer at School of Computer at Lancaster University, UK
+- 👋 Hi, I’m Dr Mo El-Haj @drelhaj
+- 👨🏽‍🏫 NLP Senior Lecturer at School of Computer at Lancaster University, UK
 - 👀 I’m interested in Natural Language Processing (NLP) with focus on financial NLP, Arabic NLP, summarisation and under-resourced languages.
 - 💞️ I’m looking to collaborate on work related to financial NLP or NLP related to Arabic/multilingual/under-resourced languages.
 - 📫 contact details on my page: http://elhaj.uk
