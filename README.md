@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dr Mo El-Haj @drelhaj
-- 👨🏽‍🏫 Director of VinNLP Research Group [vinnlp.com](https://vinnlp.com)
+- 👨🏽‍🏫 Director of NLP @ VinUni Research Group [NLP @ VinUni.com](https://vinnlp.com)
 - 👨🏽‍🏫 Reader (Associate Professor) in NLP/Computer Science at The College of Engineering & Computer Science (CECS) at VinUniversity, Hanoi, Vietnam.
 - 👨🏽‍🏫 Visiting Professor in NLP at the School of Computing and Communciations (SCC), Lancaster University, Lancaster, UK.
 - 👀 I’m interested in Natural Language Processing (NLP) with focus on financial NLP, Arabic NLP, summarisation and under-resourced languages.
